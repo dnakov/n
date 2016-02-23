@@ -7,7 +7,7 @@
 VERSION="2.1.0"
 UP=$'\033[A'
 DOWN=$'\033[B'
-N_PREFIX=${N_PREFIX-/var/task}
+N_PREFIX=${N_PREFIX-/tmp}
 BASE_VERSIONS_DIR=$N_PREFIX/n/versions
 
 #
